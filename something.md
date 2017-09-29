@@ -1,2 +1,2 @@
 ## hello world!
-testing discusses with a lb symbol
+testing discusses with a pound symbol
