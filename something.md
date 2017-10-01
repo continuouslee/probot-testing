@@ -5,3 +5,5 @@ now?
 how about now?   
 read/write for both PR and Issues.  
 completely parameterized? testing...
+
+## Command Line Testing
